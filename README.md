@@ -42,9 +42,7 @@
 &emsp;[5.5 数据压缩](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter5_5)<br />
 ### [第6章 背景](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter6)<br />
 <div align="center">
-    <a href="http://algs4.cs.princeton.edu/home/"><img src="https://badgen.net/badge/YSY/官方网站"></a>
-    <a href="http://algs4.cs.princeton.edu/code/algs4.jar"> <img src="https://badgen.net/badge/Rank/13?icon=github&color=4ab8a1"></a>
-    <a href="http://algs4.cs.princeton.edu/code/algs4-data.zip"> <img src="https://badgen.net/github/stars/CyC2018/CS-Notes?icon=github&color=4ab8a1"></a>
->####[官方网站]()&ensp;
->####[官方代码下载]()&ensp;
->####[官方测试数据下载]()
+    <a href="http://algs4.cs.princeton.edu/home/"><img src="https://badgen.net/badge/Algorithms/官方网站?icon=sourcegraph&color=4ab8a1"></a>
+    <a href="http://algs4.cs.princeton.edu/code/algs4.jar"> <img src="https://badgen.net/badge/Algorithms/官方代码下载?icon=github&color=4ab8a1"></a>
+    <a href="http://algs4.cs.princeton.edu/code/algs4-data.zip"> <img src="https://badgen.net/github/Algorithms/官方测试数据下载?icon=github&color=4ab8a1"></a>
+    
