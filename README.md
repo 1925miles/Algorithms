@@ -9,8 +9,8 @@
 ## 目录
 
 ### 第1章 基础
-&emsp;[1.1 基础编程模型](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_1)<br />
-&emsp;[1.2 数据抽象](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_2)<br />
+&emsp;[1.1 基础编程模型](https://github.com/S6-Miles/Algorithms/blob/main/Database/chapter1_1/Ex01.java)<br />
+&emsp;[1.2 数据抽象](https://github.com/S6-Miles/Algorithms/blob/main/Database/chapter1_1/Ex02.java)<br />
 &emsp;[1.3 背包、队列和栈](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_3)<br />
 &emsp;[1.4 算法分析](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_4)<br />
 &emsp;[1.5 案例研究：union-find算法](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_5)<br />
