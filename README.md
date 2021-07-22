@@ -6,7 +6,7 @@
 >
 >算法第四版课后习题答案
 >
->Database文件夹为书上各个算法的练习
+>Database文件夹为书上课后习题代码
 
 
 ## 目录
@@ -42,4 +42,6 @@
 &emsp;[5.5 数据压缩](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter5_5)<br />
 ### [第6章 背景](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter6)<br />
 
->####[官方网站](http://algs4.cs.princeton.edu/home/)&ensp;   ####[官方代码下载](http://algs4.cs.princeton.edu/code/algs4.jar)&ensp;   ####[官方测试数据下载](http://algs4.cs.princeton.edu/code/algs4-data.zip)
+>####[官方网站](http://algs4.cs.princeton.edu/home/)&ensp;
+>####[官方代码下载](http://algs4.cs.princeton.edu/code/algs4.jar)&ensp;
+>####[官方测试数据下载](http://algs4.cs.princeton.edu/code/algs4-data.zip)
