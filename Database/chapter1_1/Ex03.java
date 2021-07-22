@@ -1,16 +1,18 @@
-package com.jimmysun.algorithms.chapter1_1;
+package Algorithms;
 
-import edu.princeton.cs.algs4.StdIn;
+import java.util.Scanner;
 
-public class Ex03 {
-	public static void main(String[] args) {
-		int a = StdIn.readInt();
-		int b = StdIn.readInt();
-		int c = StdIn.readInt();
-		if (a == b && a == c) {
-			System.out.println("equal");
-		} else {
-			System.out.println("not equal");
-		}
-	}
+public class lx_3 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int a, b, c;
+        a = in.nextInt();
+        b = in.nextInt();
+        c = in.nextInt();
+        if (a == b && a == c) {
+            System.out.print("equal");
+        } else {
+            System.out.print("not equal");
+        }
+    }
 }
