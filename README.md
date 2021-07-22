@@ -41,7 +41,10 @@
 &emsp;[5.4 正则表达式](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter5_4)<br />
 &emsp;[5.5 数据压缩](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter5_5)<br />
 ### [第6章 背景](https://github.com/S6-Miles/Algorithms/tree/main/Database/chapter6)<br />
-
->####[官方网站](http://algs4.cs.princeton.edu/home/)&ensp;
->####[官方代码下载](http://algs4.cs.princeton.edu/code/algs4.jar)&ensp;
->####[官方测试数据下载](http://algs4.cs.princeton.edu/code/algs4-data.zip)
+<div align="center">
+    <a href="http://algs4.cs.princeton.edu/home/"><img src="https://badgen.net/badge/YSY/官方网站"></a>
+    <a href="http://algs4.cs.princeton.edu/code/algs4.jar"> <img src="https://badgen.net/badge/Rank/13?icon=github&color=4ab8a1"></a>
+    <a href="http://algs4.cs.princeton.edu/code/algs4-data.zip"> <img src="https://badgen.net/github/stars/CyC2018/CS-Notes?icon=github&color=4ab8a1"></a>
+>####[官方网站]()&ensp;
+>####[官方代码下载]()&ensp;
+>####[官方测试数据下载]()
