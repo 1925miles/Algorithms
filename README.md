@@ -1,12 +1,12 @@
 # 算法(第四版)
-
-[《算法》pdf版下载](https://github.com/S6-Miles/Algorithms/blob/main/%5B%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%5D.%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)<br />
-
-
-
 算法第四版课后习题答案
 
 Database文件夹为书上课后习题代码
+
+附：
+>[《算法》pdf版下载](https://github.com/S6-Miles/Algorithms/blob/main/%5B%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%5D.%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)<br />
+>
+>[个人练习笔记详解](https://www.wolai.com/sy19/upkX6aBEPckpenQdCBEiVv?theme=light)<br />
 
 
 ## 目录
